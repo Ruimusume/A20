@@ -1,15 +1,21 @@
-日期[main+11a3ab8] + 42d8
+﻿日期[main+11a3ab8] + 42d8
 金钱[main+11a3ab8] + 42f8
 人脉[main+11a3ab8] + 4300
 ネルケHP上限 6CC1FAB0B4
 [main+1706300] + 94524
 [main+1703998] + 8d654
 [main+16e0da0] + 8a674
-ネルケHP 6CC1FAB0B8
-[main+16e0da0] + 8a678
-[main+1703998] + 8d658
-[main+1706300] + 94528
-ネルケ绿点上限 6CC1FAB0BC
+ネルケHP 0FA78C63A8
+[main+11ac598] + 50848
+[main+11ac590] + d0748
+[main+11ac5c0] + 1bc18
+[main+11ac588] + d0b28
+[main+11ac5b8] + 1bc78
+[main+11ac580] + 1ba88
+[main+11ac5a8] + 1bd58
+[main+11ac5b0] + 1bce8
+
+ネルケ绿点上限 5B21703DD8
 [main+1706300] + 9452c
 [main+16e0da0] + 8a67c
 [main+1703998] + 8d65c
@@ -52,16 +58,7 @@
 
 建筑地方 6CC1F67268
 [main+11a8f88] + 5e8
-[main+1703998] + 523c8
-[main+1706300] + 59298
-[main+16e0340]  - 1c278
 建筑次数（0为最大） 6CC1F67264
 [main+11a8f88] + 5e4
-[main+1706300] + 59294
-[main+1703998] + 523c4
-[main+16e0340]  - 1c27c
 建筑所显示金钱（0为不扣钱）6CC1F67260
-[main+1706300] + 59290
-[main+1703998] + 523c0
-[main+16e0340]  - 1c280
 [main+11a8f88] + 5e0
