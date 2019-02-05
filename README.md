@@ -7,6 +7,7 @@ Switch ネルケと伝説の錬金術士たち ～新たな大地のアトリエ
 Switch Nelke to Densetsu no Renkinjutsushi-tachi Arata na Daichi no Atelier SXOS Cheats</br>
 Switch 奈尔克与传说之炼金术士们 新大地之工作室 SXOS 金手指
 <img src="https://www.gamecity.ne.jp/atelier/nelke/img/index/mainVisual.jpg" alt="奈尔克与传说之炼金术士们"/>
+<img src="https://pbs.twimg.com/media/DyqKOnzU8AAc7mI.jpg" alt="ネルケと伝説の錬金術士たち"/>
 
 TID:0100F4C00B1DE000</br>
 BID:e9d33e22d85ae420
